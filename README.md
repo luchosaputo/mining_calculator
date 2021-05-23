@@ -1,6 +1,6 @@
 # Mining Calculator
 
-Foobar is a Python library for dealing with word pluralization.
+Mining Calculator is a Python program that checks nicehash mining profitability.
 
 ## Usage
 First make sure to set the config correctly, editing the `config.ini` file. 
